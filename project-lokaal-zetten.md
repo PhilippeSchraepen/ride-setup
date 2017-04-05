@@ -44,5 +44,4 @@ alias cli="php application/cli.php"
 cli og --debug # orm generate
 cli od --debug # orm define
 cli cc # cache clear
-cli ad # assets deploy
 ```
